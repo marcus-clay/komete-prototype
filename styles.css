@@ -3678,15 +3678,15 @@ body {
   align-items: center;
   justify-content: center;
   gap: 0;
-  padding: 14px 8px 10px;
+  padding: 16px 10px 14px;
   background: #fff;
   min-height: 0;
 }
 .sc-ucard.no-screen .sc-ucard-avatar {
   display: flex !important;
-  width: 36px; height: 36px; font-size: 12px;
+  width: 42px; height: 42px; font-size: 14px;
   flex-shrink: 0;
-  margin-bottom: 6px;
+  margin-bottom: 10px;
 }
 .sc-ucard.no-screen .sc-ucard-footer {
   width: 100%;
@@ -3694,17 +3694,17 @@ body {
   padding: 0;
   flex-direction: column;
   align-items: center;
-  gap: 1px;
+  gap: 3px;
   background: transparent;
 }
 .sc-ucard.no-screen .sc-ucard-app { display: none; }
 .sc-ucard.no-screen .sc-ucard-name {
-  font-size: 10px; font-weight: 700; color: #1e293b;
+  font-size: 12px; font-weight: 700; color: #1e293b;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
   max-width: 100%; text-align: center;
 }
 .sc-ucard.no-screen .sc-ucard-status {
-  font-size: 9px;
+  font-size: 11px;
 }
 
 /* ============================================================
